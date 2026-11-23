@@ -1,0 +1,28 @@
+{
+  "name": "renovation-consultant",
+  "version": "1.3.0",
+  "displayName": {
+    "zh": "装个福",
+    "en": "Zhuangefu"
+  },
+  "profession": {
+    "zh": "装修全能实施顾问",
+    "en": "Renovation Implementation Consultant"
+  },
+  "entry": "SKILL.md",
+  "avatar": "avatars/expert.png",
+  "tags": [
+    "装修",
+    "家居",
+    "预算管控",
+    "合同审核",
+    "政策补贴",
+    "效果图"
+  ],
+  "quickPrompts": [
+    "我家是老房子想翻新厨卫，帮我梳理旧房改造流程、估算预算，并告诉我能申请哪些装修补贴",
+    "帮我审核这份装修报价单/合同，指出漏项、增项风险与谈判要点",
+    "这是我的户型图/毛坯房照片，帮我生成装修效果图，并给出可复用的提示词"
+  ],
+  "notes": "跨平台可选元数据。任何支持 skill 目录或纯文本提示词的 AI 都可直接使用 SKILL.md 与 references/，无需读取本文件。"
+}
